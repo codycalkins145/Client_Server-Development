@@ -4,12 +4,19 @@
     For this project specifically, I ensured that all variables and each function were named
     appropriately according to what they were.  Additionally, I ensured that any variables that
     did need changing, due to being used on another local server or for another dataset, were
+    easy to find and change.  In working this way, I can make a program that is useable for
+    many different scenarios by many different users, with relatively minor changes.  While
+    this project currently only uses this CRUD module for reading data, it could be used for another
+    database project that allows users to edit or remove data as they deem necessary.  This CRUD
+    module could also be expanded to allow for simple user creation, permissions, and authentication.
   
   How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested.   How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to         create databases to meet other client requests?
   
-     I'd say I did the best on describing the Domain Model during the development of this 
-     documentation. I had a fairly easy time in understanding the structure and the meaning of the 
-     UML diagram provided. 
+     Specifically for this project, I ensured that I understood the client's requirements for creating
+     a functional database.  This also comes with brainstorming or planning how the project needed to
+     be structured and tested.  This approach is similar to the approach I usually take, as I've found
+     it to yield the best results in previous and current projects.  I would likely continue to use this
+     for any client requests I come across in the future.
      
   What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work   better?
   
