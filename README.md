@@ -20,7 +20,11 @@
      
   What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work   better?
   
-     When developing the code, I found reviewing the given UML diagram to be the most helpful aspect
-     of the design document. This gave me clear relationships between each class and how each class 
-     should function together.
+     Computer scientists develop and maintain compliant, secure, and user-friendly
+     software based on business needs. Programs made in this way are needed to ensure
+     that the company and the users are protected and that they perform in the way
+     that they are needed and expected.  My work with on this type of project could 
+     help many companies similar to Grazioso Salvare.  Maintaining and managing databases
+     is an important function for many companies to track things like stock, profits,
+     or customer/user info.
   
